@@ -76,3 +76,4 @@ printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
 system("pause"); 
 return 0;
 
+}
