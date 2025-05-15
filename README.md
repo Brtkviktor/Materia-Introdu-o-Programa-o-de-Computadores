@@ -18,6 +18,8 @@ Este projeto foi desenvolvido como parte de um desafio prático de programação
 
 ## 💡 Exemplos de saída
 
+```
+
 Carta 1:
 Estado: A
 Código: A01
@@ -28,6 +30,8 @@ PIB: 699.28 bilhões de reais
 Número de Pontos Turísticos: 50
 Densidade Populacional: 8102.47 hab/km²
 PIB per Capita: 56724.32 reais
+
+````
 
 ## 🛠️ Como compilar e executar
 
@@ -69,4 +73,7 @@ super-trunfo/
 
 ## ✍️ Autor
 
-Desenvolvido por \João Victor
+Desenvolvido por João Victor.
+
+```
+
